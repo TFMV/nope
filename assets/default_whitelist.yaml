@@ -1,0 +1,4 @@
+# List of default whitelisted commands
+- ls
+- pwd
+- whoami
